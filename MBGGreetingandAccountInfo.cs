@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CompanyGreeting
+namespace MBGGreetingandAccountInfo
 {
-    class CompanyGreeting
+    class MBGGreetingandAccountInfo
     {
         static void Main(string[] args)
         {
